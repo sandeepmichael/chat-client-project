@@ -3,7 +3,7 @@
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-color:  #f0f3f8;                  
+    background-color:  #f2f2fa;                  
   }
   
   .container {
@@ -12,8 +12,8 @@
     justify-content: space-between;
     background: #FFFFFF;
     border-radius: 8px;
-    height: 60%;
-    width: 35%;
+    height: 90%;
+    width: 60%;
   }
   
   @media (min-width: 320px) and (max-width: 480px) {
@@ -22,7 +22,7 @@
     }
   
     .container {
-      width: 100%;
+      width: 200%;
       height: 100%;
     }
   }
